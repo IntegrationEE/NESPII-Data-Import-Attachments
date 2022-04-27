@@ -1,2 +1,3 @@
 # NESPII-Data-Import-Attachments
-The Files attached in the NESP II import OSM Wiki
+
+The files attached in the NESP II import OSM Wiki and the script used in processing the surveyed data to OSM acceptable format
