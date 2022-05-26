@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "amenity": "place_of_worship", "shop": null, "osm_type": "node", "osm_id": -65446 }, "geometry": { "type": "Point", "coordinates": [ 8.057177469570783, 5.268777182938443 ] } },
+{ "type": "Feature", "properties": { "amenity": null, "shop": "kiosk", "osm_type": "node", "osm_id": -46267 }, "geometry": { "type": "Point", "coordinates": [ 8.057069894358229, 5.268616352670167 ] } },
+{ "type": "Feature", "properties": { "amenity": "place_of_worship", "shop": null, "osm_type": "node", "osm_id": -88218 }, "geometry": { "type": "Point", "coordinates": [ 8.057108, 5.2690503 ] } },
+{ "type": "Feature", "properties": { "amenity": "place_of_worship", "shop": null, "osm_type": "node", "osm_id": -32480 }, "geometry": { "type": "Point", "coordinates": [ 8.056009586198838, 5.269890746153555 ] } },
+{ "type": "Feature", "properties": { "amenity": "place_of_worship", "shop": null, "osm_type": "node", "osm_id": -77024 }, "geometry": { "type": "Point", "coordinates": [ 8.055625617247095, 5.269869444131267 ] } },
+{ "type": "Feature", "properties": { "amenity": "place_of_worship", "shop": null, "osm_type": "node", "osm_id": -59759 }, "geometry": { "type": "Point", "coordinates": [ 8.055615498786512, 5.271731240879245 ] } }
+]
+}
