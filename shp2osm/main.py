@@ -8,10 +8,10 @@ from transformer import transformer
 
 # default paths
 
-CURRENT_PATH: str = os.getcwd()
-INPUT_PATH: str = "C:\\Users\\jolai\INTEGRATION GmbH\\Anna Bojarska - on-site survey tender_documents\\INT internal\\QA_QC\\South East (Lot2)\\Imo\\WO1\\Shapefiles"
-OUTPUT_PATH: str = "C:\\Users\\jolai\INTEGRATION GmbH\\Anna Bojarska - on-site survey tender_documents\\INT internal\\QA_QC\\South East (Lot2)\\Imo\\WO1\\OSM Upload"
-TAGS_PATH: str = os.path.join(CURRENT_PATH, "taglist.csv")
+CURRENT_PATH = os.getcwd()
+INPUT_PATH = ""
+OUTPUT_PATH = ""
+TAGS_PATH = os.path.join(CURRENT_PATH, "taglist.csv")
 
 
 def main():
