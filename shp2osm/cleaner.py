@@ -4,7 +4,9 @@ from enum import Enum
 
 
 class SurveyColumn(Enum):
+
     geometry = "geometry"
+    building_type = "bui_type"
     commercial_type = "com_type"
     other_commercial = "other_com"
     craft = "craft"
@@ -33,21 +35,22 @@ def data_cleaner(geodataframe: geopandas.geodataframe) -> pd.DataFrame:
     # create a new dictionary to store the cleaned version of the uploadable data frame
     # we only need the geometry and the facility type for that particular business
 
-    cleaned_data: dict = {"geometry": [], "facility": []}
+    cleaned_data: dict = {"geometry": [], "facility": [], "building_type": []}
 
     for _, rows in uploadable_data.iterrows():
 
         # find the index in the row with a valid input.
         response_index = rows.last_valid_index()
-
         # get the actual facility type for the survey
         response_value = rows[response_index]
 
         # update the new dict with the information. Geometry is the first field.(0)
-
+        building_type = rows["bui_type"]
         cleaned_data["geometry"].append(rows[0])
 
         cleaned_data["facility"].append(response_value)
+
+        cleaned_data["building_type"].append(rows[1])
 
     # return the cleaned data as a dataframe
 

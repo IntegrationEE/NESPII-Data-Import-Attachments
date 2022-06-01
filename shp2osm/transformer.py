@@ -10,11 +10,12 @@ def transformer(cleaned_data: pd.DataFrame, osm_tags_dict) -> gpd.GeoDataFrame:
     # OSM data structure
     # osm_id(negative), osm_type(node), long, lat, key, key2, key3...
 
-    transformed_data: dict = {}
-    osm_ids: list = []
-    geometries: list = []
-    has_tag: int = 0
-    facilities_with_tag: list = []
+    transformed_data = {}
+    osm_ids = []
+    geometries = []
+    has_tag = 0
+    facilities_with_tag = []
+    building_type_of_facilities_with_tag = []
 
     # get facilites as a list
     facilities = cleaned_data["facility"].to_list()
@@ -22,19 +23,24 @@ def transformer(cleaned_data: pd.DataFrame, osm_tags_dict) -> gpd.GeoDataFrame:
     # create a list of facilities with tag and the lenght
 
     for facility in facilities:
-        if osm_tags_dict.get(facility):
-            facilities_with_tag.append(facility)
-            has_tag += 1
+        try:
+            if osm_tags_dict.get(facility):
+                facilities_with_tag.append(facility)
+                has_tag += 1
+        except Exception:
+            pass
 
     # update the geometries and osm ids of the facilities with tag
 
     for index, columns in cleaned_data.iterrows():
 
         facility = columns["facility"]
+        building_type = columns["building_type"]
 
         if facility in facilities_with_tag:
             geometries.append(columns["geometry"])
             osm_ids.append(random.randint(-100000, 0))
+            building_type_of_facilities_with_tag.append(building_type)
 
     for facility_index, facility in enumerate(facilities_with_tag):
 
@@ -98,6 +104,37 @@ def transformer(cleaned_data: pd.DataFrame, osm_tags_dict) -> gpd.GeoDataFrame:
     transformed_dataframe["osm_type"] = "node"
     transformed_dataframe["geometry"] = geometries
     transformed_dataframe["osm_id"] = osm_ids
+    transformed_dataframe["building_type"] = building_type_of_facilities_with_tag
+    transformed_dataframe["building"] = None
+    transformed_dataframe["construction"] = None
+
+    # include building type tags
+
+    transformed_dataframe.loc[
+        transformed_dataframe["building_type"]
+        == "structure consists of a roof with open sides",
+        ["building"],
+    ] = "roof"
+
+    transformed_dataframe.loc[
+        transformed_dataframe["building_type"]
+        == "structure consists of walls and a roof",
+        ["building"],
+    ] = "yes"
+
+    transformed_dataframe.loc[
+        transformed_dataframe["building_type"] == "structure is under construction",
+        ["building"],
+    ] = "construction"
+
+    transformed_dataframe.loc[
+        transformed_dataframe["building_type"] == "structure is under construction",
+        ["construction"],
+    ] = "commercial"
+
+    # remove the building type column
+
+    transformed_dataframe.drop(["building_type"], axis=1, inplace=True)
 
     # return as a geodataframe for export
     return gpd.GeoDataFrame(transformed_dataframe)
