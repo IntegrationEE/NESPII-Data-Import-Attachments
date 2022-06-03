@@ -106,7 +106,6 @@ def transformer(cleaned_data: pd.DataFrame, osm_tags_dict) -> gpd.GeoDataFrame:
     transformed_dataframe["osm_id"] = osm_ids
     transformed_dataframe["building_type"] = building_type_of_facilities_with_tag
     transformed_dataframe["building"] = None
-    transformed_dataframe["construction"] = None
 
     # include building type tags
 
@@ -122,15 +121,24 @@ def transformer(cleaned_data: pd.DataFrame, osm_tags_dict) -> gpd.GeoDataFrame:
         ["building"],
     ] = "yes"
 
-    transformed_dataframe.loc[
-        transformed_dataframe["building_type"] == "structure is under construction",
-        ["building"],
-    ] = "construction"
+    if "structure is under construction" in building_type_of_facilities_with_tag:
+        transformed_dataframe["construction"] = None
+        transformed_dataframe.loc[
+            transformed_dataframe["building_type"] == "structure is under construction",
+            ["building"],
+        ] = "construction"
 
-    transformed_dataframe.loc[
-        transformed_dataframe["building_type"] == "structure is under construction",
-        ["construction"],
-    ] = "commercial"
+        transformed_dataframe.loc[
+            transformed_dataframe["building_type"] == "structure is under construction",
+            ["construction"],
+        ] = "commercial"
+
+    if "no buildings, just landuse" in building_type_of_facilities_with_tag:
+        transformed_dataframe["landuse"] = None
+        transformed_dataframe.loc[
+            transformed_dataframe["building_type"] == "no buildings, just landuse",
+            ["landuse"],
+        ] = "industrial"
 
     # remove the building type column
 
