@@ -1,99 +1,97 @@
-Name,Key,Value,Key2,value2,key3,value3
-Shoemaker,Craft,shoemaker,,,,
-water well with no pump(man-made),Man_made,water_well,,,,
-Copy shop,Shop,Copyshop,noname,yes,,
-Alcohol shop,Shop,Alcohol,,,,
-motorcycle repair / mechanic,shop,motorcycle,motorcycle:repair,yes,,
-Motorcycle parts,Shop, motorcycle,,,,
-Motorcycle tyres,Shop,tyres,,,,
-Agrarian shop,Shop,agrarian,agrarian,*,name,*
-pharmacy/dispensary,amenity,pharmacy,,,,
-Doctor,amenity,doctors,,,,
-herbalist,shop,herbalist,,,,
-Borehole,Man_made,water_well,,,,
-water well with pump,Man_made,water_well,,,,
-Football field,Public,Football,,,,
-Mobile phone seller,Shop,mobile_phone,,,,
-bakery,Craft,bakery,,,,
-grinding mill (building),Craft,grinding_mill,,,,
-grinding mill (landuse),Craft,grinding_mill,,,,
-oil mill,Craft,oil_mill,,,,
-Car Wash,amenity,car_wash,,,,
-electrician / electronic repair,Craft,electronics_repair,,,,
-welder / metal worker,Craft,welder,,,,
-tailor / dress maker,Craft,Clothes,,,,
-car repair / mechanic,shop,car_repair,,,,
-vulcanizer / tyre repair,service,tyres,,,,
-carpenter / wood worker,Craft,Carpenter,,,,
-Boat builder,Craft,boatbuilder,,,,
-land used for a school,amenity,School,,,,
-Any building,General,Building,,,,
-A building with healthcare of unknown purpose (not a shop selling medicine) ,Health,healthcare,,,,
-Dispensary selling medicine,Health,drugs,,,,
-telecommunication mast (man-made),man_made,mast,,,,
-Restaurant,amenity,restaurant,,,,
-bar(drinks only),amenity,bar,,,,
-Barber shop,Shop,hairdresser,male,yes,,
-beauty salon,Shop,hairdresser,female,yes,,
-Internet cafe,amenity,internet_cafe,,,,
-Photograph shop,Shop,Electronic,internet_access,*,,
-Motorcycle services,Shop,Car/Motorcycle,,,,
-Frozen yoghurt shop,amenity,ice_cream,name,*,,
-Convenience shop/mini-mart,Shop,convenience,,,,
-fuel shop (They are often just a house with some barrels or bottles clearly displayed.),Shop,Fuel,,,,
-Fuel station,amenity,Fuel,,,,
-A building that is a shed,General,Building,,,,
-A building that has no walls,General,Building,,,,
-Residential road,General,Road,,,,
-Path,General,Road,,,,
-community Hall/Center,amenity,community_centre,,,,
-place of worship,amenity,place_of_worship,,,,
-Hotel,tourism,hotel,,,,
- Motel,tourism,motel,,,,
- Guest house,tourism,guest_house,,,,
-car taxi,amenity,taxi,,,,
-motorbike taxi,amenity,motorcycle_taxi,,,,
-a building that contains a shop,Shop,General,,,,
-a building used for a small retail business,building,retail,,,,
-Football betting shop,Shop,bookmaker,,,,
-Greengrocer/vegetable sales,Shop,greengrocer,,,,
-video/football viewing centre,amenity,sports_viewing_centre,,,,
-kiosk,shop,kiosk,,,,
-power plant,power,plant,,,,
-kindergarden,amenity,kindergarden,,,,
-primary school,amenity,School,,,,
-secondary school,amenity,School,,,,
-pool billiard,leisure:pitch,sport=billiards,,,,
-diary shop,shop,diary,,,,
-vetirinary,,,,,,
-butcher,shop,butcher,,,,
-mobile shop (sale and repair),craft,electronics_repair,,,,
-abattoir,industrial,slaughterhouse ,,,,
-wholesaler,shop,wholesale,wholesale,*,,
-public water tank,,,,,,
-butcher,shop,butcher,,,,
-bank,amenity,bank,,,,
-sign maker / painter,craft,signmaker,,,,
-photographer / video maker,craft,photographer,,,,
-stone production /stone mason,craft,stonemason,,,,
-market place,amenity,marketplace,,,,
-water point /water tank,waterway,water_point,,,,
-"health center / clinic (building with healthcare, not a shop selling medicine)",healthcare,clinic,amenity,clinic,,
-veterinary praxis,amenity,veterinary,,,,
-Vulcaniser ,Craft/production,Car/Motorcycle,,,,
-Chemist and provision store,amenity,pharmacy,,,,
-Cassava end processing mill,Craft,grinding_mill,,,,
-Cassava processing mill,Craft,grinding_mill,,,,
-Blacksmith,craft,blacksmith,,,,
-Foodstuff,Shop,food,,,,
-Sells Phone accessories & charges phone,Shop,mobile_phone,,,,
-Cocoa merchant/ trader,shop,trade,trade,agricultural_supplies,,
-Cocoa shop,shop,trade,trade,agricultural_supplies,,
-Cocoa Trader,shop,trade,trade,agricultural_supplies,,
-Chairs and Tables rentals business,shop,trade,,,,
-Charcoal business,shop,trade,,,,
-Pap business(Eko not Ogi),shop,trade,,,,
-"It is a shop set Infront of the house where she sells pepper, palm oil",shop,trade,,,,
-Phone charging shop with drink sale,shop,trade,,,,
-General Merchandise,shop,trade,,,,
-Pepper seller,shop,trade,,,,
+Name,Key,Value,Key2,value2,key3,value3,link
+Shoemaker,craft,shoemaker,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dshoemaker
+water well with no pump(man-made),man_made,water_well,,,,,https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dwater_well
+Copy shop,shop,copyshop,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dcopyshop
+Alcohol shop,shop,alcohol,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dalcohol
+motorcycle repair / mechanic,shop,motorcycle,motorcycle:repair,yes,,,https://wiki.openstreetmap.org/wiki/Key:motorcycle:repair
+Motorcycle parts,shop,motorcycle,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmotorcycle
+Motorcycle tyres,shop,tyres,motorcycle:tyres,yes,,,https://wiki.openstreetmap.org/wiki/Key:motorcycle:tyres
+Agrarian shop,shop,agrarian,agrarian,yes,,,https://wiki.openstreetmap.org/wiki/Key:agrarian
+pharmacy/dispensary,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
+Doctor,amenity,doctors,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddoctors
+herbalist,shop,herbalist,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dherbalist
+Borehole,man_made,water_well,,,,,https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dwater_well
+water well with pump,man_made,water_well,,,,,https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dwater_well
+Football field,leisure,pitch,sport,soccer,,,"https://wiki.openstreetmap.org/wiki/Tag:sport%3Dsoccer, https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dpitch"
+Mobile phone seller,shop,mobile_phone,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmobile_phone
+bakery,craft,bakery,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dbakery
+grinding mill (building),craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
+grinding mill (landuse),craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
+oil mill,craft,oil_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Doil_mill
+Car Wash,amenity,car_wash,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcar_wash
+electrician / electronic repair,craft,electronics_repair,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Delectronics_repair
+welder / metal worker,craft,welder,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dwelder
+tailor / dress maker,shop,tailor,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtailor
+car repair / mechanic,shop,car_repair,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dcar_repair
+vulcanizer / tyre repair,shop,tyres,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtyres
+carpenter / wood worker,craft,carpenter,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dcarpenter
+Boat builder,craft,boatbuilder,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dboatbuilder
+land used for a school,amenity,school,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dschool
+Any building,building,yes,,,,,https://wiki.openstreetmap.org/wiki/Key:building
+A building with healthcare of unknown purpose (not a shop selling medicine) ,healthcare,centre,,,,,https://wiki.openstreetmap.org/wiki/Tag:healthcare%3Dcentre
+Dispensary selling medicine,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
+telecommunication mast (man-made),man_made,mast,tower:type,communication,,,https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dmast
+Restaurant,amenity,restaurant,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Drestaurant
+bar(drinks only),amenity,bar,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbar
+Barber shop,shop,hairdresser,male,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dhairdresser
+beauty salon,shop,hairdresser,female,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dhairdresser
+Internet cafe,amenity,internet_cafe,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dinternet_cafe
+Photograph shop,shop,photo,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dphoto
+Motorcycle services,shop,motorcycle,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmotorcycle
+Frozen yoghurt shop,amenity,ice_cream,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dice_cream
+Convenience shop/mini-mart,shop,convenience,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dconvenience
+fuel shop (They are often just a house with some barrels or bottles clearly displayed.),shop,fuel,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfuel
+Fuel station,amenity,fuel,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dfuel
+A building that is a shed,building,shed,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Dshed
+A building that has no walls,building,roof,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Droof
+community Hall/Center,amenity,community_centre,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcommunity_centre
+place of worship,amenity,place_of_worship,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dplace_of_worship
+Hotel,tourism,hotel,,,,,https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dhotel
+ Motel,tourism,motel,,,,,https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dmotel
+ Guest house,tourism,guest_house,,,,,https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dguest_house
+car taxi,amenity,taxi,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dtaxi
+motorbike taxi,amenity,motorcycle_taxi,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmotorcycle_taxi
+a building that contains a shop,shop,general,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgeneral
+a building used for a small retail business,building,retail,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Dretail
+Football betting shop,shop,bookmaker,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbookmaker
+Greengrocer/vegetable sales,shop,greengrocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
+video/football viewing centre,amenity,sports_viewing_centre,,,,,https://wiki.openstreetmap.org/wiki/Proposed_features/Sports_Viewing_Center_in_Africa
+kiosk,shop,kiosk,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dkiosk
+power plant,power,generator,,,,,https://wiki.openstreetmap.org/wiki/Tag:power%3Dgenerator
+kindergarden,amenity,kindergarten,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dkindergarten
+primary school,amenity,school,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dschool
+secondary school,amenity,school,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dschool
+pool billiard,leisure,pitch,sport,billiards,,,https://wiki.openstreetmap.org/wiki/Tag:sport%3Dbilliards
+diary shop,shop,diary,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddairy
+vetirinary,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
+butcher,shop,butcher,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbutcher
+mobile shop (sale and repair),shop,mobile_phone,mobile_phone:repair,yes,,,https://wiki.openstreetmap.org/wiki/Key:mobile_phone:repair
+abattoir,industrial,slaughterhouse ,,,,,https://wiki.openstreetmap.org/wiki/Tag:industrial%3Dslaughterhouse
+wholesaler,shop,wholesale,,,,,https://wiki.openstreetmap.org/wiki/Key:wholesale
+public water tank,man_made,water_tower,,,,,https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dwater_tower
+butcher,shop,butcher,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbutcher
+bank,amenity,bank,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbank
+sign maker / painter,craft,signmaker,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dsignmaker
+photographer / video maker,craft,photographer,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dphotographer
+stone production /stone mason,craft,stonemason,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dstonemason
+market place,amenity,marketplace,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmarketplace
+water point /water tank,waterway,water_point,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dwater_point
+"health center / clinic (building with healthcare, not a shop selling medicine)",healthcare,clinic,amenity,clinic,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dclinic
+veterinary praxis,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
+Vulcaniser ,shop,tyres,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtyres
+Chemist and provision store,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
+Cassava end processing mill,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
+Cassava processing mill,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
+Blacksmith,craft,blacksmith,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dblacksmith
+Foodstuff,shop,greengrocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
+Sells Phone accessories & charges phone,shop,mobile_phone,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmobile_phone
+Cocoa merchant/ trader,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Cocoa shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Cocoa Trader,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Chairs and Tables rentals business,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Charcoal business,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Pap business(Eko not Ogi),shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+"It is a shop set Infront of the house where she sells pepper, palm oil",shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Phone charging shop with drink sale,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+general Merchandise,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Pepper seller,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
