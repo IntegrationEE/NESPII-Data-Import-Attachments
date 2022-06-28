@@ -96,5 +96,5 @@ Phone charging shop with drink sale,shop,trade,,,,,https://wiki.openstreetmap.or
 general Merchandise,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Pepper seller,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 veterinary,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
-Generator repairer shop,shop,repair,repair,generator,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Drepair
-Aluminium fabrication shop,landuse,industrial,industrial,aluminium_smelting,,https://wiki.openstreetmap.org/wiki/Cs:Tag:industrial%3Daluminium_smelting
+Generator repairer shop,shop,repair,repair,generator,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Drepair
+Aluminium fabrication shop,landuse,industrial,industrial,aluminium_smelting,,,,https://wiki.openstreetmap.org/wiki/Cs:Tag:industrial%3Daluminium_smelting
