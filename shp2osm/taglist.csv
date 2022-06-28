@@ -75,7 +75,7 @@ sign maker / painter,craft,signmaker,,,,,https://wiki.openstreetmap.org/wiki/Tag
 photographer / video maker,craft,photographer,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dphotographer
 stone production /stone mason,craft,stonemason,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dstonemason
 market place,amenity,marketplace,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmarketplace
-water point /water tank,waterway,water_point,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dwater_point
+water point /water tank,amenity,water_point,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dwater_point
 "health center / clinic (building with healthcare, not a shop selling medicine)",healthcare,clinic,amenity,clinic,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dclinic
 veterinary praxis,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
 Vulcaniser ,shop,tyres,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtyres
