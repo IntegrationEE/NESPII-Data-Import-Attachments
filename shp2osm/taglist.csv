@@ -97,4 +97,25 @@ general Merchandise,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%
 Pepper seller,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 veterinary,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
 Generator repairer shop,shop,repair,repair,generator,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Drepair
+Generator repair,shop,repair,repair,generator,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Drepair
 Aluminium fabrication shop,landuse,industrial,industrial,aluminium_smelting,,,https://wiki.openstreetmap.org/wiki/Cs:Tag:industrial%3Daluminium_smelting
+Clothes weaving,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
+POS SHOP,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
+Pos shop,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
+Pos,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
+Phone charging/POS,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+PHONE CHARGING,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Phone charging,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Palm oil store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Kolanut store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Kola nut shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+It is a store for kolanut which the owner said he sold the product and the wife has gone to the market to re-stock,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Gas shop,shop,gas,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgas
+Fish shop,shop,seafood,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dseafood
+Farm produce store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Drink shop,shop,beverages,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbeverages
+Cocoa/kolanut store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Cocoa store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Cloth shop,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Cement shop,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Cocoa store house,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
