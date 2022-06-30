@@ -41,6 +41,7 @@ Photograph shop,shop,photo,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dph
 Motorcycle services,shop,motorcycle,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmotorcycle
 Frozen yoghurt shop,amenity,ice_cream,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dice_cream
 Convenience shop/mini-mart,shop,convenience,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dconvenience
+convenience shop/mini-mart,shop,convenience,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dconvenience
 fuel shop (They are often just a house with some barrels or bottles clearly displayed.),shop,fuel,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfuel
 Fuel station,amenity,fuel,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dfuel
 A building that is a shed,building,shed,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Dshed
