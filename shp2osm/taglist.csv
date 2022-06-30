@@ -45,7 +45,7 @@ Fuel station,amenity,fuel,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3D
 A building that is a shed,building,shed,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Dshed
 A building that has no walls,building,roof,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Droof
 community Hall/Center,amenity,community_centre,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcommunity_centre
-place of worship,amenity,place_of_worship,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dplace_of_worship
+place of worship,amenity,place_of_worship,religion,*,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dplace_of_worship
 Hotel,tourism,hotel,,,,,https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dhotel
 Motel,tourism,motel,,,,,https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dmotel
 Guest house,tourism,guest_house,,,,,https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dguest_house
