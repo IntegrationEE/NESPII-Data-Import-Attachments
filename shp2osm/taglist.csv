@@ -7,6 +7,7 @@ motorcycle repair / mechanic,shop,motorcycle,motorcycle:repair,yes,,,https://wik
 Motorcycle parts,shop,motorcycle,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmotorcycle
 Motorcycle tyres,shop,tyres,motorcycle:tyres,yes,,,https://wiki.openstreetmap.org/wiki/Key:motorcycle:tyres
 Agrarian shop,shop,agrarian,agrarian,yes,,,https://wiki.openstreetmap.org/wiki/Key:agrarian
+agrarian shop,shop,agrarian,agrarian,yes,,,https://wiki.openstreetmap.org/wiki/Key:agrarian
 pharmacy/dispensary,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
 Doctor,amenity,doctors,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddoctors
 herbalist,shop,herbalist,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dherbalist
