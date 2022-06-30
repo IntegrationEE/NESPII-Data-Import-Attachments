@@ -32,6 +32,7 @@ A building with healthcare of unknown purpose (not a shop selling medicine) ,hea
 Dispensary selling medicine,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
 telecommunication mast (man-made),man_made,mast,tower:type,communication,,,https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dmast
 Restaurant,amenity,restaurant,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Drestaurant
+restaurant,amenity,restaurant,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Drestaurant
 bar(drinks only),amenity,bar,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbar
 Barber shop,shop,hairdresser,male,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dhairdresser
 beauty salon,shop,hairdresser,female,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dhairdresser
