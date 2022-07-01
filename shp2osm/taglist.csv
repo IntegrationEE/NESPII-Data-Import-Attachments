@@ -65,8 +65,8 @@ primary school,amenity,school,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenit
 secondary school,amenity,school,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dschool
 pool billiard,leisure,pitch,sport,billiards,,,https://wiki.openstreetmap.org/wiki/Tag:sport%3Dbilliards
 pool shop,leisure,pitch,sport,billiards,,,https://wiki.openstreetmap.org/wiki/Tag:sport%3Dbilliards
-diary shop,shop,diary,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddairy
-diary,shop,diary,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddairy
+dairy shop,shop,dairy,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddairy
+dairy,shop,dairy,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddairy
 vetirinary,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
 butcher,shop,butcher,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbutcher
 mobile shop (sale and repair),shop,mobile_phone,mobile_phone:repair,yes,,,https://wiki.openstreetmap.org/wiki/Key:mobile_phone:repair
@@ -130,6 +130,6 @@ Fire wood shop,shop,fireplace,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3
 Firewood,shop,fireplace,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfireplace
 Fire wood place,shop,fireplace,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfireplace
 reservoir,landuse,reservoir,,,,,https://wiki.openstreetmap.org/wiki/Tag:landuse%3Dreservoir
-Fruit sales,shop,greengocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
+Fruit sales,shop,greengrocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
 Oil bean(akara)sales.,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Block industry,industrial,brickyard,,,,,https://wiki.openstreetmap.org/wiki/Tag:industrial%3Dbrickyard
