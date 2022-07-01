@@ -63,6 +63,7 @@ kindergarden,amenity,kindergarten,,,,,https://wiki.openstreetmap.org/wiki/Tag:am
 primary school,amenity,school,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dschool
 secondary school,amenity,school,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dschool
 pool billiard,leisure,pitch,sport,billiards,,,https://wiki.openstreetmap.org/wiki/Tag:sport%3Dbilliards
+pool shop,leisure,pitch,sport,billiards,,,https://wiki.openstreetmap.org/wiki/Tag:sport%3Dbilliards
 diary shop,shop,diary,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddairy
 vetirinary,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
 butcher,shop,butcher,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbutcher
@@ -83,6 +84,8 @@ Vulcaniser ,shop,tyres,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtyres
 Chemist and provision store,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
 Cassava end processing mill,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 Cassava processing mill,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
+Garri production,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
+Cassava processing,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 Blacksmith,craft,blacksmith,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dblacksmith
 Foodstuff,shop,greengrocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
 Sells Phone accessories & charges phone,shop,mobile_phone,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmobile_phone
@@ -120,3 +123,5 @@ Cement shop,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Cocoa store house,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Piggery,building,sty,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Dsty
 Community security office,office,security,,,,,https://wiki.openstreetmap.org/wiki/Tag:office%3Dsecurity
+Fire wood shop,shop,fireplace,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfireplace
+reservoir,landuse,reservoir,,,,,https://wiki.openstreetmap.org/wiki/Tag:landuse%3Dreservoir
