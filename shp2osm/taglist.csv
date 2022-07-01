@@ -7,7 +7,6 @@ motorcycle repair / mechanic,shop,motorcycle,motorcycle:repair,yes,,,https://wik
 Motorcycle parts,shop,motorcycle,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmotorcycle
 Motorcycle tyres,shop,tyres,motorcycle:tyres,yes,,,https://wiki.openstreetmap.org/wiki/Key:motorcycle:tyres
 Agrarian shop,shop,agrarian,agrarian,yes,,,https://wiki.openstreetmap.org/wiki/Key:agrarian
-agrarian shop,shop,agrarian,agrarian,yes,,,https://wiki.openstreetmap.org/wiki/Key:agrarian
 pharmacy/dispensary,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
 Doctor,amenity,doctors,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddoctors
 herbalist,shop,herbalist,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dherbalist
@@ -33,7 +32,6 @@ A building with healthcare of unknown purpose (not a shop selling medicine) ,hea
 Dispensary selling medicine,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
 telecommunication mast (man-made),man_made,mast,tower:type,communication,,,https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dmast
 Restaurant,amenity,restaurant,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Drestaurant
-restaurant,amenity,restaurant,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Drestaurant
 bar(drinks only),amenity,bar,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbar
 Barber shop,shop,hairdresser,male,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dhairdresser
 beauty salon,shop,hairdresser,female,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dhairdresser
@@ -42,7 +40,6 @@ Photograph shop,shop,photo,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dph
 Motorcycle services,shop,motorcycle,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmotorcycle
 Frozen yoghurt shop,amenity,ice_cream,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dice_cream
 Convenience shop/mini-mart,shop,convenience,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dconvenience
-convenience shop/mini-mart,shop,convenience,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dconvenience
 fuel shop (They are often just a house with some barrels or bottles clearly displayed.),shop,fuel,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfuel
 Fuel station,amenity,fuel,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dfuel
 A building that is a shed,building,shed,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Dshed
@@ -104,10 +101,8 @@ Generator repair,shop,repair,repair,generator,,,https://wiki.openstreetmap.org/w
 Aluminium fabrication shop,landuse,industrial,industrial,aluminium_smelting,,,https://wiki.openstreetmap.org/wiki/Cs:Tag:industrial%3Daluminium_smelting
 Clothes weaving,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
 POS SHOP,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
-Pos shop,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
 Pos,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
 Phone charging/POS,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-PHONE CHARGING,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Phone charging,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Palm oil store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Kolanut store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
