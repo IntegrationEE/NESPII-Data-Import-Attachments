@@ -19,6 +19,7 @@ bakery,craft,bakery,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dbakery
 grinding mill (building),craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 grinding mill (landuse),craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 oil mill,craft,oil_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Doil_mill
+Oil spot(land use),craft,oil_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Doil_mill
 Car Wash,amenity,car_wash,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcar_wash
 electrician / electronic repair,craft,electronics_repair,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Delectronics_repair
 welder / metal worker,craft,welder,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dwelder
@@ -47,7 +48,7 @@ A building that is a shed,building,shed,,,,,https://wiki.openstreetmap.org/wiki/
 A building that has no walls,building,roof,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Droof
 community Hall/Center,amenity,community_centre,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcommunity_centre
 community Hall,amenity,community_centre,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcommunity_centre
-place of worship,amenity,place_of_worship,religion,*,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dplace_of_worship
+place of worship,amenity,place_of_worship,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dplace_of_worship
 Hotel,tourism,hotel,,,,,https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dhotel
 Motel,tourism,motel,,,,,https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dmotel
 Guest house,tourism,guest_house,,,,,https://wiki.openstreetmap.org/wiki/Tag:tourism%3Dguest_house
@@ -90,10 +91,12 @@ Garri production,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag
 Cassava processing,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 Blacksmith,craft,blacksmith,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dblacksmith
 Foodstuff,shop,greengrocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
+Foodstuff shop,shop,greengrocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
 Sells Phone accessories & charges phone,shop,mobile_phone,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmobile_phone
 Cocoa merchant/ trader,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Cocoa shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Cocoa Trader,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Yam tuber shop.,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Chairs and Tables rentals business,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Charcoal business,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Pap business(Eko not Ogi),shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
@@ -107,6 +110,7 @@ Generator repair,shop,repair,repair,generator,,,https://wiki.openstreetmap.org/w
 Aluminium fabrication shop,landuse,industrial,industrial,aluminium_smelting,,,https://wiki.openstreetmap.org/wiki/Cs:Tag:industrial%3Daluminium_smelting
 Clothes weaving,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
 POS SHOP,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
+POS,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
 Pos,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
 Phone charging/POS,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Phone charging,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
@@ -117,6 +121,7 @@ Kola nut shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetma
 It is a store for kolanut which the owner said he sold the product and the wife has gone to the market to re-stock,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Gas shop,shop,gas,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgas
 Fish shop,shop,seafood,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dseafood
+Dried/Stock fish shop,shop,seafood,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dseafood
 Farm produce store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Drink shop,shop,beverages,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbeverages
 Cocoa/kolanut store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
@@ -134,3 +139,8 @@ reservoir,landuse,reservoir,,,,,https://wiki.openstreetmap.org/wiki/Tag:landuse%
 Fruit sales,shop,greengrocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
 Oil bean(akara)sales.,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Block industry,industrial,brickyard,,,,,https://wiki.openstreetmap.org/wiki/Tag:industrial%3Dbrickyard
+Laundry services,shop,laundry,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dlaundry
+Religious items,shop,religion,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dreligion
+Bicycle repairer,shop,bicycle,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbicycle
+Boutique,shop,clothes,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dclothes
+Mini Test Lab,healthcare,laboratory,,,,,https://wiki.openstreetmap.org/wiki/Tag:healthcare%3Dlaboratory
