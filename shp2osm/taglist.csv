@@ -77,7 +77,7 @@ market place,amenity,marketplace,,,,,https://wiki.openstreetmap.org/wiki/Tag:ame
 water point /water tank,amenity,water_point,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dwater_point
 veterinary praxis,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
 Vulcaniser ,shop,tyres,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtyres
-Chemist and provision store,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
+Chemist,amenity,pharmacy,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpharmacy
 Cassava end processing mill,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 Cassava processing mill,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 Garri production,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
