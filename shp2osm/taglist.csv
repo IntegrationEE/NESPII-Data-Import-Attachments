@@ -136,3 +136,6 @@ Building materials,shop,hardware,,,,,https://wiki.openstreetmap.org/wiki/Tag:sho
 Food vendor,amenity,restaurant,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Drestaurant
 Firewire stake,shop,fuel,fuel:firewood,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfuel 
 Firewood,shop,fuel,fuel:firewood,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfuel 
+Leather works,craft,leathre,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dleather 
+potter,craft,pottery,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dpottery
+Borehole repairer,shop,repair,repair,borehole,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Drepair
