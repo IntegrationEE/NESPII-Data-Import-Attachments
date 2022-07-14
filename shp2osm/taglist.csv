@@ -130,3 +130,9 @@ Mini Test Lab,healthcare,laboratory,,,,,https://wiki.openstreetmap.org/wiki/Tag:
 Village square,place,square,,,,,https://wiki.openstreetmap.org/wiki/Tag:place%3Dsquare
 Maize processing,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 islamic school,amenity,school,religion,islamic,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dschool
+Mat weaving,craft,basket_weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag%3Acraft%3Dbasket_maker
+For simcard registration,mobile_phone:sales,no,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmobile_phone
+Building materials,shop,hardware,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dhardware 
+Food vendor,amenity,restaurant,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Drestaurant
+Firewire stake,shop,fuel,fuel:firewood,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfuel 
+Firewood,shop,fuel,fuel:firewood,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfuel 
