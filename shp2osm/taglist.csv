@@ -139,7 +139,7 @@ Firewood,shop,fuel,fuel:firewood,yes,,,https://wiki.openstreetmap.org/wiki/Tag:s
 Leather works,craft,leathre,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dleather 
 potter,craft,pottery,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dpottery
 Borehole repairer,shop,repair,repair,borehole,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Drepair
-Solar plant,power,plant,plant:source,solar,,,https://wiki.openstreetmap.org/wiki/Tag:plant:source%3Dsolar
+Solar plant,power,generator,generator:source,solar,,,https://wiki.openstreetmap.org/wiki/Tag:power%3Dgenerator
 Police station,amenity,police,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpolice
 Cosmetics shop,shop,cosmetic,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dcosmetics
 fuel shop,shop,fuel,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfuel
