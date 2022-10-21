@@ -63,7 +63,7 @@ pool shop,leisure,pitch,sport,billiards,,,https://wiki.openstreetmap.org/wiki/Ta
 diary shop,shop,dairy,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddairy
 diary,shop,dairy,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Ddairy
 vetirinary,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
-butcher,shop,butcher,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbutcher
+Groundnut processing,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 mobile shop (sale and repair),shop,mobile_phone,mobile_phone:repair,yes,,,https://wiki.openstreetmap.org/wiki/Key:mobile_phone:repair
 abattoir,industrial,slaughterhouse ,,,,,https://wiki.openstreetmap.org/wiki/Tag:industrial%3Dslaughterhouse
 wholesaler,shop,wholesale,,,,,https://wiki.openstreetmap.org/wiki/Key:wholesale
