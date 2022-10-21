@@ -86,6 +86,7 @@ Blacksmith,craft,blacksmith,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3D
 Foodstuff,shop,greengrocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
 Sells Phone accessories & charges phone,shop,mobile_phone,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmobile_phone
 Cocoa merchant/ trader,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Grain shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Cocoa shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Cocoa Trader,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Yam tuber shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
