@@ -88,17 +88,17 @@ Cassava processing,craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/T
 Blacksmith,craft,blacksmith,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dblacksmith
 Foodstuff,shop,greengrocer,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgreengrocer
 Sells Phone accessories & charges phone,shop,mobile_phone,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dmobile_phone
-Cocoa merchant/ trader,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Grain shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Cocoa shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Cocoa Trader,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Yam tuber shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Chairs and Tables rentals business,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Charcoal business,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Pap business(Eko not Ogi),shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Phone charging shop with drink sale,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-general Merchandise,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Pepper seller,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Cocoa merchant/ trader,shop,yes,description,shop selling cocoa,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Grain shop,shop,farm,,,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Cocoa shop,shop,yes,shop selling cocoa,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Cocoa Trader,shop,yes,description,shop selling cocoa,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Yam tuber shop,shop,yes,description,ashop selling tam,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Chairs and Tables rentals business,shop,yes,description,shop renting chairs and tables,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Charcoal business,shop,yes,description,shop selling charcoal,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Pap business(Eko not Ogi),shop,yes,description,shop selling pap,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Phone charging shop with drink sale,shop,yes,description,shop selling drinks and charging phones for a fee,,,https://wiki.openstreetmap.org/wiki/Key:shop
+general Merchandise,shop,yes,description,general Merchandise,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Pepper seller,shop,yes,description,shop selling pepper,,,https://wiki.openstreetmap.org/wiki/Key:shop
 veterinary,amenity,veterinary,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dveterinary
 Generator repairer shop,shop,repair,repair,generator,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Drepair
 Generator repair,shop,repair,repair,generator,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Drepair
@@ -106,26 +106,26 @@ Aluminium fabrication shop,landuse,industrial,industrial,aluminium_smelting,,,ht
 Clothes weaving,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
 Mat knitting,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
 POS SHOP,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
-Phone charging/POS,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Phone charging,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Palm oil store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Kolanut store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Phone charging/POS,shop,yes,description,shop charging mobile phones for a fee,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Phone charging,shop,yes,description,shop charging phones for a fee,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Palm oil store,shop,yes,description,shop selling palm oil,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Kolanut store,shop,farm,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfarm
 Gas shop,shop,gas,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dgas
 Fish shop,shop,seafood,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dseafood
 Dried/Stock fish shop,shop,seafood,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dseafood
-Farm produce store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Farm produce store,shop,farm,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfarm
 Drink shop,shop,beverages,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbeverages
-Cocoa/kolanut store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Plastic material,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Garments shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Cocoa store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Cloth shop,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Groundnut cake seller,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Cosmetic shop,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Cocoa/kolanut store,shop,yes,description,shop selling cocoa and kolanut,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Plastic material,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Garments shop,shop,fabric,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfabric
+Cocoa store,shop,yes,description,shop selling cocoa,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Cloth shop,shop,fabric,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Groundnut cake seller,shop,yes,description,shop selling groundnut cake,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Cosmetic shop,shop,cosmetics,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dcosmetics
 Cement shop,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Rice cake business,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Soya beans cake seller,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
-Cocoa store house,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Rice cake business,shop,yes,description,shop selling rice cake,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Soya beans cake seller,shop,yes,description,shop selling soya beans,,,https://wiki.openstreetmap.org/wiki/Key:shop
+Cocoa store house,shop,farm,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfarm
 Piggery,building,sty,,,,,https://wiki.openstreetmap.org/wiki/Tag:building%3Dsty
 Community security office,office,security,,,,,https://wiki.openstreetmap.org/wiki/Tag:office%3Dsecurity
 reservoir,landuse,reservoir,,,,,https://wiki.openstreetmap.org/wiki/Tag:landuse%3Dreservoir
