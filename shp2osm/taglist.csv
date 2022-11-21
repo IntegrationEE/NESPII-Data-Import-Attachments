@@ -118,6 +118,7 @@ Farm produce store,shop,farm,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3D
 Drink shop,shop,beverages,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbeverages
 Cocoa/kolanut store,shop,yes,description,shop selling cocoa and kolanut,,,https://wiki.openstreetmap.org/wiki/Key:shop
 Plastic material,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Slippers shop,shop,yes,description,shop selling slippers,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Garments shop,shop,fabric,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfabric
 Cocoa store,shop,yes,description,shop selling cocoa,,,https://wiki.openstreetmap.org/wiki/Key:shop
 Cloth shop,shop,fabric,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
