@@ -32,6 +32,7 @@ Boat builder,craft,boatbuilder,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft
 telecommunication mast (man-made),man_made,mast,tower:type,communication,,,https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dmast
 Restaurant,amenity,restaurant,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Drestaurant
 bar(drinks only),amenity,bar,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbar
+phone charging shop,shop,yes,description,shop charging phone for a fee,,,https://wiki.openstreetmap.org/wiki/Key:shop
 Barber shop,shop,hairdresser,male,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dhairdresser
 beauty salon,shop,hairdresser,female,yes,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dhairdresser
 Internet cafe,amenity,internet_cafe,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dinternet_cafe
