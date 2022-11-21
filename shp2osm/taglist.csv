@@ -20,6 +20,7 @@ grinding mill (building),craft,grinding_mill,,,,,https://wiki.openstreetmap.org/
 grinding mill (landuse),craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 oil mill,craft,oil_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Doil_mill
 Cap making,craft,*,,,,,https://wiki.openstreetmap.org/wiki/Key:craft
+Mat knitting,craft,*,,,,,https://wiki.openstreetmap.org/wiki/Key:craft
 Car Wash,amenity,car_wash,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcar_wash
 electrician / electronic repair,craft,electronics_repair,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Delectronics_repair
 welder / metal worker,craft,welder,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dwelder
@@ -115,8 +116,12 @@ Dried/Stock fish shop,shop,seafood,,,,,https://wiki.openstreetmap.org/wiki/Tag:s
 Farm produce store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Drink shop,shop,beverages,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbeverages
 Cocoa/kolanut store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Plastic material,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Garments shop,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Cocoa store,shop,trade,trade,agricultural_supplies,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Cloth shop,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Groundnut cake seller,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
+Cosmetic shop,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Cement shop,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Rice cake business,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
 Soya beans cake seller,shop,trade,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dtrade
