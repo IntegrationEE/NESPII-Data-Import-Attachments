@@ -19,6 +19,7 @@ bakery,craft,bakery,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dbakery
 grinding mill (building),craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 grinding mill (landuse),craft,grinding_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dgrinding_mill
 oil mill,craft,oil_mill,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Doil_mill
+Cap making,craft,*,,,,,https://wiki.openstreetmap.org/wiki/Key:craft
 Car Wash,amenity,car_wash,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcar_wash
 electrician / electronic repair,craft,electronics_repair,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Delectronics_repair
 welder / metal worker,craft,welder,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dwelder
