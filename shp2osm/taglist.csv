@@ -172,3 +172,5 @@ Shoe shop,shop,shoes,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dshoes
 Tailor Accessories Shop,shop,fashion_accessories,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfashion_accessories
 POULTRY FARM,landuse,animal_keeping,animal_keeping,poultry,,,https://wiki.openstreetmap.org/wiki/Tag:landuse%3Danimal_keeping
 Motorcycle park,amenity,motorcycle_parking,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmotorcycle_parking
+Cyber cafe,amenity,internet_cafe,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dinternet_cafe
+Charcoal seller,shop,yes,description,a shop selling charcoal,,,https://wiki.openstreetmap.org/wiki/Tag:shop
