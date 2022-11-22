@@ -175,3 +175,6 @@ Motorcycle park,amenity,motorcycle_parking,,,,,https://wiki.openstreetmap.org/wi
 Cyber cafe,amenity,internet_cafe,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dinternet_cafe
 Charcoal seller,shop,yes,description,a shop selling charcoal,,,https://wiki.openstreetmap.org/wiki/Tag:shop
 Phone repair,craft,electronics_repair,,,,,https://wiki.openstreetmap.org/wiki/Tag%3Acraft%3Delectronics_repair
+Area court,amenity,courthouse,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcourthouse
+Palace,historic,castle,castle_type,palace,,,https://wiki.openstreetmap.org/wiki/Tag:castle_type%3Dpalace
+Campaign office,office,politician,,,,,https://wiki.openstreetmap.org/wiki/Tag:office%3Dpolitician
