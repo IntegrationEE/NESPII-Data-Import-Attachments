@@ -105,6 +105,7 @@ Generator repairer shop,shop,repair,repair,generator,,,https://wiki.openstreetma
 Generator repair,shop,repair,repair,generator,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Drepair
 Aluminium fabrication shop,landuse,industrial,industrial,aluminium_smelting,,,https://wiki.openstreetmap.org/wiki/Cs:Tag:industrial%3Daluminium_smelting
 Clothes weaving,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
+Weaving,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
 Mat knitting,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
 POS SHOP,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
 Phone charging/POS,shop,yes,description,shop charging mobile phones for a fee,,,https://wiki.openstreetmap.org/wiki/Key:shop
