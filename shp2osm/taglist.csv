@@ -166,7 +166,7 @@ Textile shop,shop,fabric,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfabr
 Rice mill,craft,grinding_mill,product,rice,,,https://wiki.openstreetmap.org/wiki/Tag:industrial%3Drice_mill
 Market stalls,street_vendor,yes,,,,,https://wiki.openstreetmap.org/wiki/Tag:street_vendor%3Dyes
 Frozen food shop,shop,frozen_food,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfrozen_food
-Lotto shop,shop,yes,description,a shop where they play lotto,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop
+Lotto shop,shop,yes,description,a shop where they play lotto,,,,https://wiki.openstreetmap.org/wiki/Tag:shop
 Kitchen utensils,shop,appliance,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dappliance
 Shoe shop,shop,shoes,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dshoes
 Tailor Accessories Shop,shop,fashion_accessories,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfashion_accessories
