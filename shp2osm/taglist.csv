@@ -106,6 +106,7 @@ Generator repair,shop,repair,repair,generator,,,https://wiki.openstreetmap.org/w
 Aluminium fabrication shop,landuse,industrial,industrial,aluminium_smelting,,,https://wiki.openstreetmap.org/wiki/Cs:Tag:industrial%3Daluminium_smelting
 Clothes weaving,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
 Weaving,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
+Basket weaving shop,craft,basket_maker,,,,,https://wiki.openstreetmap.org/wiki/Tag%3Acraft%3Dbasket_maker
 Mat knitting,craft,weaver,,,,,https://wiki.openstreetmap.org/wiki/Tag:craft%3Dweaver
 POS SHOP,shop,point_of_sale,,,,,https://wiki.openstreetmap.org/wiki/Key:shop#Supplementary_tags_for_shop=*
 Phone charging/POS,shop,yes,description,shop charging mobile phones for a fee,,,https://wiki.openstreetmap.org/wiki/Key:shop
@@ -163,3 +164,11 @@ school,landuse,education,,,,,https://wiki.openstreetmap.org/wiki/Tag:landuse%3De
 Fabric shop,shop,fabric,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfabric
 Textile shop,shop,fabric,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfabric
 Rice mill,craft,grinding_mill,product,rice,,,https://wiki.openstreetmap.org/wiki/Tag:industrial%3Drice_mill
+Market stalls,street_vendor,yes,,,,,https://wiki.openstreetmap.org/wiki/Tag:street_vendor%3Dyes
+Frozen food shop,shop,frozen_food,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfrozen_food
+Lotto shop,shop,yes,description,a shop where they play lotto,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop
+Kitchen utensils,shop,appliance,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dappliance
+Shoe shop,shop,shoes,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dshoes
+Tailor Accessories Shop,shop,fashion_accessories,,,,,https://wiki.openstreetmap.org/wiki/Tag:shop%3Dfashion_accessories
+POULTRY FARM,landuse,animal_keeping,animal_keeping,poultry,,,https://wiki.openstreetmap.org/wiki/Tag:landuse%3Danimal_keeping
+Motorcycle park,amenity,motorcycle_parking,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmotorcycle_parking
