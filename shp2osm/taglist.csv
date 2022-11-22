@@ -174,3 +174,4 @@ POULTRY FARM,landuse,animal_keeping,animal_keeping,poultry,,,https://wiki.openst
 Motorcycle park,amenity,motorcycle_parking,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmotorcycle_parking
 Cyber cafe,amenity,internet_cafe,,,,,https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dinternet_cafe
 Charcoal seller,shop,yes,description,a shop selling charcoal,,,https://wiki.openstreetmap.org/wiki/Tag:shop
+Phone repair,craft,electronics_repair,,,,,https://wiki.openstreetmap.org/wiki/Tag%3Acraft%3Delectronics_repair
